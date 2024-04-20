@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author HOAI
+ *
+ */
+module hi {
+}
